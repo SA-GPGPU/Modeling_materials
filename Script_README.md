@@ -13,7 +13,7 @@ reset
 ready
 valid
 ```
-    - script output: 
+- script output: 
 ```c
 if(ii==0)   reset =atoi(token);
 if(ii==1)   ready =atoi(token);
